@@ -116,5 +116,5 @@ Query: [3_retention_analysis](/3_retention_analysis.sql)
 
 ## Technical Details
 - **Database** PostgreSQL
-- **Analysis Tools** PostgreSQL
+- **Analysis Tools** PostgreSQL, DBeaver, PGadmin
 - **Visualization:** ChatGPT
